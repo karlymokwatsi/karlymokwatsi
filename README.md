@@ -15,6 +15,7 @@ You can click the Preview link to take a look at your changes.
 ![visual-studio-code](https://user-images.githubusercontent.com/104991821/171690757-55a2f682-6b9c-41b3-96f5-513bdfcc2e8e.png)
 ![git](https://user-images.githubusercontent.com/104991821/171690806-10beb197-3b87-4c2a-9f7b-58c3d0525d9d.png)
 ![html](https://user-images.githubusercontent.com/104991821/171690848-9795fe98-6821-460b-a98d-1678dae1cbeb.png)
-https://git-scm.com/
-https://www.w3schools.com/css/
-https://www.linux.org/
+![image](https://user-images.githubusercontent.com/104991821/199517164-6e56b2d3-98c5-49f0-b486-85559ae35818.png)
+![image](https://user-images.githubusercontent.com/104991821/199517240-b650633f-ce51-4337-9954-c4dd0d2c2507.png)
+![image](https://user-images.githubusercontent.com/104991821/199517317-f2321d38-82d3-4d82-81e6-6caa0f503c33.png)
+![image](https://user-images.githubusercontent.com/104991821/199517372-4d0af677-b9c5-4c85-8331-b27e9487ce34.png)
