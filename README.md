@@ -1,6 +1,6 @@
 - Hi, I am Karly Mokwatsi.
 
--I am CEO at King K optimum Pty. Ltd
+- I am CEO at King K optimum Pty. Ltd
 
 - I am software engineer and Entrepreneur with knowledge in programming languages (C, Python and JavaScript); I know MySQL and CSS, I also have knowledge in Git and Bash Linux.
 
