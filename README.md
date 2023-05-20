@@ -9,7 +9,6 @@
 - I’m looking to collaborate on any projects that would benefits both me and you to reach our goal.
 
 - 📫 How to reach me:
-
 karly.mokwatsi@gmail.com | Call me at: +27 65 357 9439 |
 
 - A quote i live by "WHATEVER YOUR MIND CAN CONCEIVE AND BELIEVE, IT CAN ACHIEVE"
