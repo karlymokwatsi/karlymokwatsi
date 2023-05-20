@@ -1,7 +1,9 @@
-- 👋 Hi, I am Karly Mokwatsi.
-- 👀 I am software developer with knowledge in programming languages (C, Python and JavaScript); I know MySQL and CSS, I also have knowledge in Git and Bash Linux.
-- 🌱 I’m currently learning with ALX.
-- 💞️ I’m looking to collaborate on anything that benefits both me and you to reach our goal.
+- Hi, I am Karly Mokwatsi.
+-I am CEO at King K optimum Pty. Ltd
+- I am software engineer with knowledge in programming languages (C, Python and JavaScript); I know MySQL and CSS, I also have knowledge in Git and Bash Linux.
+- I’m currently looking for a job
+- 
+- I’m looking to collaborate on anything that benefits both me and you to reach our goal.
 - 📫 How to reach me: karly.mokwatsi@gmail.com | Call me at: +27 65 357 9439 |
 - A quote i live by "WHATEVER YOUR MIND CAN CONCEIVE AND BELIEVE, IT CAN ACHIEVE"
           ♔♔♔  K I N G  K  MOKWATSI  ♔♔♔
