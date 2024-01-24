@@ -2,9 +2,7 @@
 
 - I am CEO at King K optimum Pty. Ltd
 
-- I am software engineer and Entrepreneur with knowledge in programming languages (C, Python and JavaScript); I know MySQL and CSS, I also have knowledge in Git and Bash Linux.
-
-- I’m currently looking for a job
+- I am software engineer and Entrepreneur with knowledge in programming languages (C, Python, JavaScript)
 
 - I’m looking to collaborate on any projects that would benefits both me and you to reach our goal.
 
